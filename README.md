@@ -1,4 +1,4 @@
-# ETL Scraping Data From Web and Stored to Postgres Database
+# ETL Scraping Data From Web and Storing to Postgres Database
 
 ## Web Scraping 
 - url:  ```https://id.wikipedia.org/wiki/Daftar_orang_terkaya_di_Indonesia```
